@@ -21,5 +21,5 @@ export const Example1 = () => {
             {counter}
         </>
     )
- 
+
 }
